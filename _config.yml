@@ -6,9 +6,9 @@ color:
   saturation: 0.6337138924282044
   rhythmicContrast: 0.9762129539158195
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: upright surprise
