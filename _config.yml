@@ -1,8 +1,19 @@
-typography_spectrum: 0.9505009045824409
+title: facts | concepts
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.651882640318945
-  lightness: 0.4907120217103511
   saturation: 0.6337138924282044
+  brandStrength: 0.651882640318945
   rhythmicContrast: 0.9762129539158195
   brandColors:
     - '#FFFFFF'
@@ -10,7 +21,8 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.46555014536716044
-name: upright surprise
-title: facts | concepts
+  lightness: 0.4907120217103511
+typography_spectrum: 0.9505009045824409
 description: by design
+layout_spectrum: 1
+name: upright surprise
